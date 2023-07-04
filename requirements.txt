@@ -1,0 +1,7 @@
+matplotlib==3.5.1
+numpy==1.23.2
+pandas==1.5.2
+session_info==1.0.0
+sklearn==1.2.2
+torch==1.10.2+cu111
+tqdm==4.64.1
